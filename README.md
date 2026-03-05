@@ -1,6 +1,5 @@
 # AppTemplate
 
-## Description
 ### A small handy template for a flatpak style app, configured with an excecutable for both Windows and Linux.
 
 ___
