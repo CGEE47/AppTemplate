@@ -1,11 +1,10 @@
 # AppTemplate
 
 
-__Description__
-A small handy template for a flatpak style app, configured with an excecutable for both Windows and Linux.
+<p>__Description__</p>
+<p>A small handy template for a flatpak style app, configured with an excecutable for both Windows and Linux.</p>
 
-
-__Jobs__
+<p>__Jobs__</p>
 <p>Resources folder/subsections DONE</p>
 <p>Import PythonVers into Resources for Win/Lin/<del>Mac</del> DONE</p>
 <p>.exe for Win launching main.py with flatpak Win Py DONE</p>
