@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=AppTemplate
+Terminal=true
+Exec=sh -c '"$(dirname "$(readlink -f "%k")")/bin/PythonLin/bin/python3" "$(dirname "$(readlink -f "%k")")/app/main.py"'
+
