@@ -11,5 +11,4 @@ ___
 3. .exe for Win launching main.py with flatpak Win Py DONE
 4. .desktop for Lin launching main.py with flatpak Lin Py DONE
 5. .app for Win launching main.py with flatpak Mac Py (Might not implement)
-6. Repeat above steps for a NodeJS verison of the portable app DONE
 ```
